@@ -142,7 +142,7 @@ text=Texte</edit_format_params>
     <phrase title="bookmark_posts_show_older" version_id="1" version_string="1.1.0"><![CDATA[Afficher les éléments]]></phrase>
     <phrase title="bookmark_posts_state" version_id="1" version_string="1.0.0"><![CDATA[Statistiques]]></phrase>
     <phrase title="bookmark_posts_state_explanation" version_id="1" version_string="1.0.0"><![CDATA[Sélectionner 'Publique' pour ajouter ce favoris à votre page de profil.
-Selectionner 'Privé' pour qu'il soit rendu privé sur votre profil.]]></phrase>
+Sélectionnez 'Privé' pour qu'il soit rendu privé sur votre profil.]]></phrase>
     <phrase title="bookmark_posts_state_title" version_id="1" version_string="1.1.0"><![CDATA[Faire un Pubique/Privé!]]></phrase>
     <phrase title="bookmark_posts_tag" version_id="1" version_string="1.0.0"><![CDATA[Tag]]></phrase>
     <phrase title="bookmark_posts_tags" version_id="1" version_string="1.1.0"><![CDATA[Tags]]></phrase>
