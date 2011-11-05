@@ -106,7 +106,7 @@ text=Texte</edit_format_params>
   </permissions>
   <phrases>
     <phrase title="bookmarks_posts" version_id="1" version_string="1.0.0"><![CDATA[Favoris ]]></phrase>
-    <phrase title="bookmarks_posts_share_text" version_id="1" version_string="1.0.0"><![CDATA[Rendre Publique]]></phrase>
+    <phrase title="bookmarks_posts_share_text" version_id="1" version_string="1.0.0"><![CDATA[Rendre publique]]></phrase>
     <phrase title="bookmarks_posts_unshare_text" version_id="1" version_string="1.0.0"><![CDATA[Rendre Privé]]></phrase>
     <phrase title="bookmarks_posts_updated" global_cache="1" version_id="1" version_string="1.0.0"><![CDATA[Favoris mis à jour!]]></phrase>
     <phrase title="bookmark_posts_action_bookmark_text" version_id="1" version_string="1.0.0"><![CDATA[Favoris]]></phrase>
@@ -115,7 +115,7 @@ text=Texte</edit_format_params>
     <phrase title="bookmark_posts_bookmarked_by" version_id="1" version_string="1.1.0"><![CDATA[Favoris par]]></phrase>
     <phrase title="bookmark_posts_bookmarked_in" version_id="1" version_string="1.1.0"><![CDATA[Favoris dans ]]></phrase>
     <phrase title="bookmark_posts_bookmark_not_public" global_cache="1" version_id="1" version_string="1.1.0"><![CDATA[Ce favoris n'est pas été marqué comme publique. Si vous voulez voir cet article, s'il vous plaît assurez-vous que le propriétaire réel de ce favoris est publique.]]></phrase>
-    <phrase title="bookmark_posts_bookmark_title" version_id="1" version_string="1.1.0"><![CDATA[Ajouté aux Favoris!]]></phrase>
+    <phrase title="bookmark_posts_bookmark_title" version_id="1" version_string="1.1.0"><![CDATA[Ajouté aux favoris!]]></phrase>
     <phrase title="bookmark_posts_content_forum" version_id="1" version_string="1.1.0"><![CDATA[Forum:]]></phrase>
     <phrase title="bookmark_posts_content_note" version_id="1" version_string="1.1.0"><![CDATA[Note:]]></phrase>
     <phrase title="bookmark_posts_content_posted_by" version_id="1" version_string="1.1.0"><![CDATA[Posté par:]]></phrase>
@@ -128,8 +128,8 @@ text=Texte</edit_format_params>
     <phrase title="bookmark_posts_edit_title" version_id="1" version_string="1.1.0"><![CDATA[Editer ce favoris!]]></phrase>
     <phrase title="bookmark_posts_how_many_public" version_id="1" version_string="1.1.0"><![CDATA[Favoris publique]]></phrase>
     <phrase title="bookmark_posts_how_much" version_id="1" version_string="1.1.0"><![CDATA[Temps publique]]></phrase>
-    <phrase title="bookmark_posts_latest_public" version_id="1" version_string="1.1.0"><![CDATA[Derniers Favoris:]]></phrase>
-    <phrase title="bookmark_posts_most_bookmarked" version_id="1" version_string="1.1.0"><![CDATA[Postes le plus en Favoris]]></phrase>
+    <phrase title="bookmark_posts_latest_public" version_id="1" version_string="1.1.0"><![CDATA[Derniers favoris:]]></phrase>
+    <phrase title="bookmark_posts_most_bookmarked" version_id="1" version_string="1.1.0"><![CDATA[Postes le plus en favoris]]></phrase>
     <phrase title="bookmark_posts_news_feed_bookmark" version_id="1" version_string="1.1.0"><![CDATA[{name} favoris <a {posterParams}>{poster}'s posté</a> dans le sujet {title}.]]></phrase>
     <phrase title="bookmark_posts_news_feed_bookmark_your" version_id="1" version_string="1.1.0"><![CDATA[{name} Votre favoris dans le sujet {title}.]]></phrase>
     <phrase title="bookmark_posts_note" version_id="1" version_string="1.0.0"><![CDATA[Note]]></phrase>
