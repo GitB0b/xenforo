@@ -111,17 +111,17 @@ text=Texte</edit_format_params>
     <phrase title="bookmarks_posts_updated" global_cache="1" version_id="1" version_string="1.0.0"><![CDATA[Favoris mis à jour!]]></phrase>
     <phrase title="bookmark_posts_action_bookmark_text" version_id="1" version_string="1.0.0"><![CDATA[Favoris]]></phrase>
     <phrase title="bookmark_posts_action_unbookmark_text" version_id="1" version_string="1.0.0"><![CDATA[Enlever des favoris]]></phrase>
-    <phrase title="bookmark_posts_all_bookmarks" version_id="1" version_string="1.0.0"><![CDATA[Tous les Favoris]]></phrase>
+    <phrase title="bookmark_posts_all_bookmarks" version_id="1" version_string="1.0.0"><![CDATA[Tous les favoris]]></phrase>
     <phrase title="bookmark_posts_bookmarked_by" version_id="1" version_string="1.1.0"><![CDATA[Favoris par]]></phrase>
     <phrase title="bookmark_posts_bookmarked_in" version_id="1" version_string="1.1.0"><![CDATA[Favoris dans ]]></phrase>
-    <phrase title="bookmark_posts_bookmark_not_public" global_cache="1" version_id="1" version_string="1.1.0"><![CDATA[Ce favoris n'est pas marqué comme publique. Si vous voulez voir cet article, s'il vous plaît assurez-vous que le propriétaire réel de ce signet est publique.]]></phrase>
+    <phrase title="bookmark_posts_bookmark_not_public" global_cache="1" version_id="1" version_string="1.1.0"><![CDATA[Ce favoris n'est pas été marqué comme publique. Si vous voulez voir cet article, s'il vous plaît assurez-vous que le propriétaire réel de ce favoris est publique.]]></phrase>
     <phrase title="bookmark_posts_bookmark_title" version_id="1" version_string="1.1.0"><![CDATA[Ajouté aux Favoris!]]></phrase>
     <phrase title="bookmark_posts_content_forum" version_id="1" version_string="1.1.0"><![CDATA[Forum:]]></phrase>
     <phrase title="bookmark_posts_content_note" version_id="1" version_string="1.1.0"><![CDATA[Note:]]></phrase>
     <phrase title="bookmark_posts_content_posted_by" version_id="1" version_string="1.1.0"><![CDATA[Posté par:]]></phrase>
     <phrase title="bookmark_posts_content_said" version_id="1" version_string="1.1.0"><![CDATA[Dit:]]></phrase>
     <phrase title="bookmark_posts_content_tag" version_id="1" version_string="1.1.0"><![CDATA[Tag:]]></phrase>
-    <phrase title="bookmark_posts_content_thread" version_id="1" version_string="1.1.0"><![CDATA[Thread:]]></phrase>
+    <phrase title="bookmark_posts_content_thread" version_id="1" version_string="1.1.0"><![CDATA[Discussion:]]></phrase>
     <phrase title="bookmark_posts_description" version_id="2" version_string="1.2.0"><![CDATA[Voici tous les favoris publics partagés dans ce forum.]]></phrase>
     <phrase title="bookmark_posts_does_not_exists" version_id="1" version_string="1.1.0"><![CDATA[Ce favoris n'existe pas.]]></phrase>
     <phrase title="bookmark_posts_edit_text" version_id="1" version_string="1.0.0"><![CDATA[Editer]]></phrase>
@@ -137,57 +137,57 @@ text=Texte</edit_format_params>
     <phrase title="bookmark_posts_no_bookmark_in_tag" version_id="1" version_string="1.1.0"><![CDATA[Il y a un favoris avec ce tag.]]></phrase>
     <phrase title="bookmark_posts_remove_filter" version_id="1" version_string="1.1.0"><![CDATA[Filtre de tag supprimé!]]></phrase>
     <phrase title="bookmark_posts_save" version_id="1" version_string="1.0.0"><![CDATA[Enregistré!]]></phrase>
-    <phrase title="bookmark_posts_search_result" version_id="1" version_string="1.0.0"><![CDATA[Resultat]]></phrase>
-    <phrase title="bookmark_posts_select_a_tag" version_id="1" version_string="1.0.0"><![CDATA[Selectionner un tag]]></phrase>
+    <phrase title="bookmark_posts_search_result" version_id="1" version_string="1.0.0"><![CDATA[Résultat]]></phrase>
+    <phrase title="bookmark_posts_select_a_tag" version_id="1" version_string="1.0.0"><![CDATA[Sélectionner un tag]]></phrase>
     <phrase title="bookmark_posts_show_older" version_id="1" version_string="1.1.0"><![CDATA[Afficher les éléments]]></phrase>
-    <phrase title="bookmark_posts_state" version_id="1" version_string="1.0.0"><![CDATA[Stats]]></phrase>
-    <phrase title="bookmark_posts_state_explanation" version_id="1" version_string="1.0.0"><![CDATA[Selectionner 'Publique' pour ajouter ce favoris à votre page de profil.
+    <phrase title="bookmark_posts_state" version_id="1" version_string="1.0.0"><![CDATA[Statistiques]]></phrase>
+    <phrase title="bookmark_posts_state_explanation" version_id="1" version_string="1.0.0"><![CDATA[Sélectionner 'Publique' pour ajouter ce favoris à votre page de profil.
 Selectionner 'Privé' pour qu'il soit rendu privé sur votre profil.]]></phrase>
     <phrase title="bookmark_posts_state_title" version_id="1" version_string="1.1.0"><![CDATA[Faire un Pubique/Privé!]]></phrase>
     <phrase title="bookmark_posts_tag" version_id="1" version_string="1.0.0"><![CDATA[Tag]]></phrase>
     <phrase title="bookmark_posts_tags" version_id="1" version_string="1.1.0"><![CDATA[Tags]]></phrase>
-    <phrase title="bookmark_posts_tag_title" version_id="1" version_string="1.1.0"><![CDATA[Voire tous les favoris marqué avec]]></phrase>
+    <phrase title="bookmark_posts_tag_title" version_id="1" version_string="1.1.0"><![CDATA[Voir tous les favoris marqué avec]]></phrase>
     <phrase title="bookmark_posts_unbookmark_title" version_id="1" version_string="1.1.0"><![CDATA[Défavorisé !]]></phrase>
-    <phrase title="bookmark_posts_view_this_post" version_id="1" version_string="1.1.0"><![CDATA[Voire Poste]]></phrase>
-    <phrase title="bookmark_posts_view_this_thread" version_id="1" version_string="1.1.0"><![CDATA[Voire Sujet]]></phrase>
+    <phrase title="bookmark_posts_view_this_post" version_id="1" version_string="1.1.0"><![CDATA[Voir le message]]></phrase>
+    <phrase title="bookmark_posts_view_this_thread" version_id="1" version_string="1.1.0"><![CDATA[Voir la discussion]]></phrase>
     <phrase title="bookmark_post_bookmarked_in" version_id="1" version_string="1.1.0"><![CDATA[dans ]]></phrase>
     <phrase title="bookmark_post_content_forum" version_id="1" version_string="1.1.0"><![CDATA[Forum:]]></phrase>
     <phrase title="bookmark_post_content_note" version_id="1" version_string="1.1.0"><![CDATA[Note:]]></phrase>
     <phrase title="bookmark_post_content_posted_by" version_id="1" version_string="1.1.0"><![CDATA[Posté par:]]></phrase>
     <phrase title="bookmark_post_content_tag" version_id="1" version_string="1.1.0"><![CDATA[Tag: ]]></phrase>
     <phrase title="bookmark_statistic_this" version_id="1" version_string="1.1.0"><![CDATA[Statistiques du favoris]]></phrase>
-    <phrase title="option_bookmark_posts_option_defaultState" version_id="1" version_string="1.0.0"><![CDATA[Statistiques par défaut pour le favoris sur poste:]]></phrase>
-    <phrase title="option_bookmark_posts_option_defaultState_explain" version_id="1" version_string="1.0.0"><![CDATA[Ici vous pouvez choisir l'état par défaut des messages d'un signet. Si vous voulez que tous les postes soient publiques quand l'utilisateur fait des études du favoris, choisissez 'publique'. Alors tous les messages signet seront publique et apparaîtront dans la page profil de l'utilisateur. Pour juste afficher à l'uttilisateur les favoris, choissisez 'privé']]></phrase>
-    <phrase title="option_bookmark_posts_option_defaultTag" version_id="1" version_string="1.0.0"><![CDATA[Tag par défaut pour le poste favoris:]]></phrase>
-    <phrase title="option_bookmark_posts_option_defaultTag_explain" version_id="1" version_string="1.0.0"><![CDATA[Ici vous pouvez choisir la balise par défaut pour tous les messages du favoris. Si vous choisissez, par exemple, 'Tout', quand un uttilisateur ajoutera un favoris, tous ses signets auront 'Tous' comme balise jusqu'à ce qu'il édite ses favoris depuis son compte.]]></phrase>
-    <phrase title="option_bookmark_posts_option_enableSearch" version_id="1" version_string="1.0.0"><![CDATA[Activé la recherche des favoris?]]></phrase>
-    <phrase title="option_bookmark_posts_option_enableSearch_explain" version_id="1" version_string="1.1.0"><![CDATA[Cocher cette option pour activer la recherche des favoris dans comptes/favoris.]]></phrase>
+    <phrase title="option_bookmark_posts_option_defaultState" version_id="1" version_string="1.0.0"><![CDATA[Statistiques par défaut pour le favoris sur messages:]]></phrase>
+    <phrase title="option_bookmark_posts_option_defaultState_explain" version_id="1" version_string="1.0.0"><![CDATA[Ici vous pouvez choisir l'état par défaut des messages d'un favoris. Si vous voulez que tous les messages soient publiques quand l'utilisateur fait des études du favoris, choisissez 'publique'. Alors tous les messages favoris seront publique et apparaîtront dans la page profil de l'utilisateur. Pour juste afficher à l'uttilisateur les favoris, choissisez 'privé']]></phrase>
+    <phrase title="option_bookmark_posts_option_defaultTag" version_id="1" version_string="1.0.0"><![CDATA[Tag par défaut pour le message favoris:]]></phrase>
+    <phrase title="option_bookmark_posts_option_defaultTag_explain" version_id="1" version_string="1.0.0"><![CDATA[Ici vous pouvez choisir la balise par défaut pour tous les messages du favoris. Si vous choisissez, par exemple, 'Tout', quand un uttilisateur ajoutera un favoris, tous ses favoris auront 'Tous' comme balise jusqu'à ce qu'il édite ses favoris depuis son compte.]]></phrase>
+    <phrase title="option_bookmark_posts_option_enableSearch" version_id="1" version_string="1.0.0"><![CDATA[Activer la recherche des favoris?]]></phrase>
+    <phrase title="option_bookmark_posts_option_enableSearch_explain" version_id="1" version_string="1.1.0"><![CDATA[Cochez cette option pour activer la recherche des favoris dans comptes/favoris.]]></phrase>
     <phrase title="option_bookmark_posts_option_latest_number" version_id="1" version_string="1.1.0"><![CDATA[Nombre de Favoris à afficher par pages:]]></phrase>
-    <phrase title="option_bookmark_posts_option_latest_number_explain" version_id="1" version_string="1.1.0"><![CDATA[Lorsque vous affichez un signet, il ya une barre latérale. Dans ce que nous avons encadré «Dernières Signets". Choisissez ici le nombre de signets à montrer.]]></phrase>
+    <phrase title="option_bookmark_posts_option_latest_number_explain" version_id="1" version_string="1.1.0"><![CDATA[Lorsque vous affichez un favoris, il ya une barre latérale. Dans ce que nous avons encadré «Dernières Favoris". Choisissez ici le nombre de favoris à montrer.]]></phrase>
     <phrase title="option_bookmark_posts_option_latest_number_home" version_id="1" version_string="1.1.0"><![CDATA[Nombre de Favoris à afficher en page d'accueil des Favoris.:]]></phrase>
     <phrase title="option_bookmark_posts_option_latest_number_home_explain" version_id="1" version_string="1.1.0"><![CDATA[Choisir le nombre de Favoris à afficher en page d'accueil des Favoris.]]></phrase>
     <phrase title="option_bookmark_posts_option_links" version_id="1" version_string="1.1.0"><![CDATA[Comment les liens doivent t'il être affiché]]></phrase>
     <phrase title="option_bookmark_posts_option_links_explain" version_id="1" version_string="1.1.0"><![CDATA[Choisir comment les liens seront affiché.
-Icone -> only icones seulement.
+Icone -> Icones seulement.
 Icones et Texte -> Icone suivent le texte.
 Texte-> Juste du texte.]]></phrase>
-    <phrase title="option_bookmark_posts_option_most_posts" version_id="1" version_string="1.1.0"><![CDATA[Nombre de 'poste favoris' à afficher sur la page d'accueil:]]></phrase>
-    <phrase title="option_bookmark_posts_option_most_posts_explain" version_id="1" version_string="1.1.0"><![CDATA[Choisir le nombre de 'postes favoris' à afficher sur la page d'accueil.]]></phrase>
+    <phrase title="option_bookmark_posts_option_most_posts" version_id="1" version_string="1.1.0"><![CDATA[Nombre de 'messages favoris' à afficher sur la page d'accueil:]]></phrase>
+    <phrase title="option_bookmark_posts_option_most_posts_explain" version_id="1" version_string="1.1.0"><![CDATA[Choisir le nombre de 'messages favoris' à afficher sur la page d'accueil.]]></phrase>
     <phrase title="option_bookmark_posts_option_perPage" version_id="1" version_string="1.1.0"><![CDATA[Favoris à afficher par page (dans compte/favoris):]]></phrase>
     <phrase title="option_bookmark_posts_option_perPage_explain" version_id="1" version_string="1.0.0"><![CDATA[Nombre de favoris à afficher par page? (dans compte/favoris)]]></phrase>
     <phrase title="option_bookmark_posts_option_perPage_profile" version_id="1" version_string="1.1.0"><![CDATA[Favoris publique à afficher par page (dans profil uttilisateur):]]></phrase>
     <phrase title="option_bookmark_posts_option_perPage_profile_explain" version_id="1" version_string="1.0.0"><![CDATA[Nombre de favoris publique à afficher par profils uttilisateurs.]]></phrase>
     <phrase title="option_bookmark_posts_option_showInFeed" version_id="1" version_string="1.1.0"><![CDATA[Ajouter les favoris dans le flux d'activité?]]></phrase>
-    <phrase title="option_bookmark_posts_option_showInFeed_explain" version_id="1" version_string="1.1.0"><![CDATA[Choisir 'Oui' pour afficher tous les favoris dans le flux de nouvelles de l'uttilisateur. (Seulement pour les postes favoris de l'uttilisateur)]]></phrase>
+    <phrase title="option_bookmark_posts_option_showInFeed_explain" version_id="1" version_string="1.1.0"><![CDATA[Choisir 'Oui' pour afficher tous les favoris dans le flux de nouvelles de l'uttilisateur. (Seulement pour les messages favoris de l'uttilisateur)]]></phrase>
     <phrase title="option_bookmark_posts_option_showMessagePost" version_id="1" version_string="1.1.0"><![CDATA[Afficher le messages dans les favoris?]]></phrase>
     <phrase title="option_bookmark_posts_option_showMessagePost_explain" version_id="1" version_string="1.1.0"><![CDATA[Dans compte/favoris vous pouvez choisir 'oui' pour afficher tous les favoris suivient d'un extrait. Choisisez 'non' pour afficher seulement le titre dans le sujet.]]></phrase>
     <phrase title="option_bookmark_posts_option_showQuote" version_id="1" version_string="1.0.0"><![CDATA[Style de message favoris:]]></phrase>
-    <phrase title="option_bookmark_posts_option_showQuote_explain" version_id="1" version_string="1.0.0"><![CDATA[Selectinnez 'citer' si vous voulez afficher le message poste de tous les favoris avec le style d'un message cité.
-Sélectionnez defaut d'affiche un texte simple, sans aucun style.]]></phrase>
-    <phrase title="option_group_bookmark_posts_options" version_id="1" version_string="1.0.0"><![CDATA[Postes Favoris]]></phrase>
-    <phrase title="option_group_bookmark_posts_options_description" version_id="1" version_string="1.0.0"><![CDATA[Configurer les options des postes favoris.]]></phrase>
-    <phrase title="permission_general_bookmarkPosts" version_id="1" version_string="1.1.0"><![CDATA[Postes Favoris]]></phrase>
-    <phrase title="permission_general_viewBookmarkedPosts" version_id="1" version_string="1.1.0"><![CDATA[Voire les postes favoris publiques]]></phrase>
+    <phrase title="option_bookmark_posts_option_showQuote_explain" version_id="1" version_string="1.0.0"><![CDATA[Selectinnez 'citer' si vous voulez afficher le message de tous les favoris avec le style d'un message cité.
+Sélectionnez defaut pour afficher un texte simple, sans aucun style.]]></phrase>
+    <phrase title="option_group_bookmark_posts_options" version_id="1" version_string="1.0.0"><![CDATA[Messages favoris]]></phrase>
+    <phrase title="option_group_bookmark_posts_options_description" version_id="1" version_string="1.0.0"><![CDATA[Configurer les options des messages favoris.]]></phrase>
+    <phrase title="permission_general_bookmarkPosts" version_id="1" version_string="1.1.0"><![CDATA[Messages favoris]]></phrase>
+    <phrase title="permission_general_viewBookmarkedPosts" version_id="1" version_string="1.1.0"><![CDATA[Voir les messages favoris publiques]]></phrase>
     <phrase title="x_does_not_have_any_bookmarks" version_id="1" version_string="1.0.0"><![CDATA[{username} n'a pas de favoris.]]></phrase>
     <phrase title="your_bookmarks" version_id="1" version_string="1.0.0"><![CDATA[Vos Favoris]]></phrase>
     <phrase title="you_do_not_have_any_recent_bookmarks" global_cache="1" version_id="1" version_string="1.0.0"><![CDATA[Vous n'avez pas de favoris récents]]></phrase>
