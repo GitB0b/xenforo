@@ -107,7 +107,7 @@ text=Texte</edit_format_params>
   <phrases>
     <phrase title="bookmarks_posts" version_id="1" version_string="1.0.0"><![CDATA[Favoris ]]></phrase>
     <phrase title="bookmarks_posts_share_text" version_id="1" version_string="1.0.0"><![CDATA[Rendre publique]]></phrase>
-    <phrase title="bookmarks_posts_unshare_text" version_id="1" version_string="1.0.0"><![CDATA[Rendre Privé]]></phrase>
+    <phrase title="bookmarks_posts_unshare_text" version_id="1" version_string="1.0.0"><![CDATA[Rendre privé]]></phrase>
     <phrase title="bookmarks_posts_updated" global_cache="1" version_id="1" version_string="1.0.0"><![CDATA[Favoris mis à jour!]]></phrase>
     <phrase title="bookmark_posts_action_bookmark_text" version_id="1" version_string="1.0.0"><![CDATA[Favoris]]></phrase>
     <phrase title="bookmark_posts_action_unbookmark_text" version_id="1" version_string="1.0.0"><![CDATA[Enlever des favoris]]></phrase>
