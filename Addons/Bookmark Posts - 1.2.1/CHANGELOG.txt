@@ -1,0 +1,39 @@
+Changelog:
+
+1.2.1 (26/10/2011)
+- Now this add-on suports friendly url
+- Added a description to the bookmarks homepage template
+- Bug fixes
+
+
+1.2.0
+
+- Homepage to show the latest bookmarks/most bookmarked posts (very simple)
+- Added a option to chosse between icon, icon/text and only text.
+- Option to choose the ammout of bookmarks to show in homepage
+- Filter tags globaly
+- Option to hide the content of the post in the account
+- New 'View' page. View the bookmarks.
+- Option to show the activity of bookmarking in the news feed.
+- Fixed bugs
+- A LOT of internal changes.
+
+1.1.0
+- No icons anymore. I had some problems with it.
+- New options in the AdminCP.
+- Now you can edit bookmarks.
+- Tag bookmarks.
+- Write a note in the bookmark.
+- 'Share' changed to Public. Now you can make a bookmark 'Public' or 'Private'.
+- Search all over yours bookmarks.
+- Search only in certain tags.
+- Two styles to choose of the post message bookmarks.
+- Filter bookmarks by tag. One click.
+- Import notes from the add-on 'PostIt'.
+- Choose the default state of the bookmarks.
+- Choose the default tag of the bookmarks.
+
+1.0.0 BETA
+- Bookmark posts for future reference
+- Share your bookmarks to your profile
+- Allow certain usergroups to "can bookmark" or not
